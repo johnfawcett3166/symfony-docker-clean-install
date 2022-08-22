@@ -4,5 +4,5 @@ A general purpose Symfony Docker Application, includes nginx, mysql and PHP - oh
 Don't forget to install dependancies:
 
 ```
-compoer install
+composer install
 ```
